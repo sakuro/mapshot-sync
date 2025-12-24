@@ -1,0 +1,8 @@
+/index.html
+
+# MCP
+/.mcp.json
+## Ignore serena stuff except project.yml
+/.serena/
+!/.serena/project.yml
+
